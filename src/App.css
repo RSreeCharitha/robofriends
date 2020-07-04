@@ -1,0 +1,12 @@
+@font-face{
+    font-family: kvant;
+    src: url('./Kvant.woff');
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'kvant';
+    font-size: xx-large;
+
+    color: chocolate;
+}
